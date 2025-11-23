@@ -1,0 +1,56 @@
+[
+    {
+        "category": "Flower",
+        "name": "Rose",
+        "water_interval": 3,
+        "last_watered": "2025-11-22"
+    },
+    {
+        "category": "Flower",
+        "name": "Sunflower",
+        "water_interval": 2,
+        "last_watered": "2025-11-22"
+    },
+    {
+        "category": "Flower",
+        "name": "Hibiscus",
+        "water_interval": 3,
+        "last_watered": "2025-11-22"
+    },
+    {
+        "category": "Vegetable",
+        "name": "Tomato",
+        "water_interval": 2,
+        "last_watered": "2025-11-22"
+    },
+    {
+        "category": "Vegetable",
+        "name": "Chili",
+        "water_interval": 2,
+        "last_watered": "2025-11-25"
+    },
+    {
+        "category": "Vegetable",
+        "name": "Brinjal",
+        "water_interval": 3,
+        "last_watered": "2025-11-22"
+    },
+    {
+        "category": "Indoor_plant",
+        "name": "Snake Plant",
+        "water_interval": 7,
+        "last_watered": "2025-11-22"
+    },
+    {
+        "category": "Indoor_plant",
+        "name": "Peace Lily",
+        "water_interval": 4,
+        "last_watered": "2025-11-22"
+    },
+    {
+        "category": "Indoor_plant",
+        "name": "Spider Plant",
+        "water_interval": 4,
+        "last_watered": "2025-11-22"
+    }
+]
